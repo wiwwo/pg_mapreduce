@@ -2,7 +2,7 @@
 
 ## What
 
-Distribute heavy loads on/to replicas in Postgres, asyncronously, using DB Links.
+Distribute heavy loads on/to replicas in Postgresql, asyncronously, using DB Links.
 
 ## Why
 
