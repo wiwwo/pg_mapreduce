@@ -17,6 +17,8 @@ Let every replica do the operation on its own oart fo the data, as indicated in 
 Of course, this does not make sense in docker, specially since it runs on the same (local) machine...<br>
 But in a distributed env, and with millions or rows and some replicas, it gets more interesting.
 <br><br>And of course, calculating the average is just a "whatever task". More useful things could be done.
+<br><br>
+IMPORTANT: use of this code in business context is strictly forbidden unless with explicit consent.
 
 <br>
 
